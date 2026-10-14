@@ -2,4 +2,5 @@
 
 This game has 3 levels and adapts the endless runner theme.
 
-<video src="Ninja-Runner-Game/Gameplay.mp4" width="320" height="240" controls></video>
+https://github.com/user-attachments/assets/66f6aee2-03e0-42ab-bd12-f3d4803de04a
+
